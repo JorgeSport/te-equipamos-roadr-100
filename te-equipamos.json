@@ -1,0 +1,43 @@
+{
+  "brand": "Te Equipamos",
+  "schema_version": 2,
+  "items": [
+    {
+      "active": true,
+      "type": "sale",
+      "sections": [
+        "Ventas",
+        "Novedades"
+      ],
+      "activities": [
+        "ciclismo",
+        "urbano"
+      ],
+      "product_type": "gafas",
+      "title": "Gafas Roadr 100 categoría 3: 24 g y protección 100 % anti-UV",
+      "card_title": "Gafas Roadr 100 · Categoría 3",
+      "seo_title": "Gafas Roadr 100 Categoría 3 | Te Equipamos Perú",
+      "seo_description": "Gafas Roadr 100 categoría 3, 100 % anti-UV, 24 g y diseño envolvente. Precio Te Equipamos: S/99.00.",
+      "seo_keywords": [
+        "gafas ciclismo Roadr 100",
+        "gafas categoría 3",
+        "gafas ciclismo Perú",
+        "Te Equipamos"
+      ],
+      "summary": "Gafas Roadr 100 categoría 3 para ciclismo y uso urbano, con lente 100 % anti-UV, diseño envolvente y 24 g.",
+      "details": "Landing de venta de Te Equipamos con siete imágenes reales del producto, ficha esencial y consulta comercial por WhatsApp.",
+      "url": "https://jorgesport.github.io/te-equipamos-roadr-100/",
+      "image": "https://contents.mediadecathlon.com/p3190976/k%24cb28d5193a481e863585f812b6564f70/picture.jpg?f=3000x0&format=auto",
+      "time": "Producto · Consultar disponibilidad",
+      "featured": false,
+      "direct": true,
+      "tags": [
+        "ciclismo",
+        "gafas",
+        "urbano",
+        "roadr-100"
+      ],
+      "published_at": "2026-09-17"
+    }
+  ]
+}
